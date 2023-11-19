@@ -1,2 +1,2 @@
-# SFML-PROJECTS
-This repository contains games created using c++ combined with SFML
+# GAME SFML
+The player's objective is to interact with moving shapes (enemies) that spawn at random positions at the top of the window and move downwards. The player can eliminate enemies by clicking on them, which in turn updates the player's score and health based on the type of enemy removed. If enemies reach the bottom of the window, the player's health decreases. The game can be paused and resumed with a key press, and the game ends when the player's health drops to zero. Points are displayed throughout, and upon game over, the player's score is printed to the console. The game also manages resources such as fonts and handles the cleanup upon exit.
