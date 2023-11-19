@@ -58,7 +58,7 @@ private:
     * loads font from a file
     */
     void initFont(){
-        if(!this->font.loadFromFile("/Users/paweljurkiewicz/CLionProjects/SFML-PROJECTS/GameSFML/Fonts/Dosis-Bold.ttf")){
+        if(!this->font.loadFromFile("/Users/paweljurkiewicz/CLionProjects/SFML-PROJECTS/Fonts/Dosis-Bold.ttf")){
             cout << "Loading font failed" << endl;
         }
     }
