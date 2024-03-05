@@ -1,0 +1,3 @@
+/Users/paweljurkiewicz/CLionProjects/CatchEnemies/cmake-build-debug/CMakeFiles/CatchEnemies.dir
+/Users/paweljurkiewicz/CLionProjects/CatchEnemies/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paweljurkiewicz/CLionProjects/CatchEnemies/cmake-build-debug/CMakeFiles/rebuild_cache.dir
