@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "GameSFML::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GameSFML-Debug-8aba552aa1d17bc377bc.json",
+					"jsonFile" : "target-GameSFML-Debug-805af7f54dfa25d7a23d.json",
 					"name" : "GameSFML",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/paweljurkiewicz/CLionProjects/SFML-PROJECTS/gitRepo/GameSFML/cmake-build-debug",
-		"source" : "/Users/paweljurkiewicz/CLionProjects/SFML-PROJECTS/gitRepo/GameSFML"
+		"build" : "/Users/paweljurkiewicz/CLionProjects/GameSFML/cmake-build-debug",
+		"source" : "/Users/paweljurkiewicz/CLionProjects/GameSFML"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 5
 	}
 }
